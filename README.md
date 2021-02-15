@@ -9,3 +9,5 @@ We will have another hands-on class with multiple examples. Our main goal this w
 - [What does a classifier learns](Prac6_classifier_comparison_v1.ipynb)
 - [What does a classifier learns, second part](Prac7_classifier_comparison_v2.ipynb)
 - An introduction to ML on satellite images, if we have some additional time ...
+
+Note: I uploaded a slightly revised yml file with few additional visualization packages for one of the examples
