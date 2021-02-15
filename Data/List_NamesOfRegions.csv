@@ -1,0 +1,261 @@
+ROI_INDEX,ROI_NAME
+702,ICV
+701,TOTALBRAIN
+601,GM
+604,WM
+606,GM_L
+607,WM_L
+613,GM_R
+614,WM_R
+501,CORPUS_CALLOSUM
+502,CEREBELLUM
+503,DEEP_WM_GM
+504,FRONTAL
+505,LIMBIC
+506,OCCIPITAL
+507,PARIETAL
+508,TEMPORAL
+509,VENTRICLE
+510,CEREBELLUM_L
+511,DEEP_WM_GM_L
+512,FRONTAL_L
+513,LIMBIC_L
+514,OCCIPITAL_L
+515,PARIETAL_L
+516,TEMPORAL_L
+517,VENTRICLE_L
+518,CEREBELLUM_R
+519,DEEP_WM_GM_R
+520,FRONTAL_R
+521,LIMBIC_R
+522,OCCIPITAL_R
+523,PARIETAL_R
+524,TEMPORAL_R
+525,VENTRICLE_R
+401,BASAL_GANGLIA
+402,DEEP_GM
+403,DEEP_WM
+404,FRONTAL_GM
+405,FRONTAL_WM
+406,LIMBIC_GM
+407,OCCIPITAL_GM
+408,OCCIPITAL_WM
+409,PARIETAL_GM
+410,PARIETAL_WM
+411,TEMPORAL_GM
+412,TEMPORAL_WM
+413,BASAL_GANGLIA_L
+414,DEEP_GM_L
+415,DEEP_WM_L
+416,FRONTAL_GM_L
+417,FRONTAL_WM_L
+418,LIMBIC_GM_L
+419,OCCIPITAL_GM_L
+420,OCCIPITAL_WM_L
+421,PARIETAL_GM_L
+422,PARIETAL_WM_L
+423,TEMPORAL_GM_L
+424,TEMPORAL_WM_L
+425,BASAL_GANGLIA_R
+426,DEEP_GM_R
+427,DEEP_WM_R
+428,FRONTAL_GM_R
+429,FRONTAL_WM_R
+430,LIMBIC_GM_R
+431,OCCIPITAL_GM_R
+432,OCCIPITAL_WM_R
+433,PARIETAL_GM_R
+434,PARIETAL_WM_R
+435,TEMPORAL_GM_R
+436,TEMPORAL_WM_R
+301,FRONTAL_INFERIOR_GM
+302,FRONTAL_INSULAR_GM
+303,FRONTAL_LATERAL_GM
+304,FRONTAL_MEDIAL_GM
+305,FRONTAL_OPERCULAR_GM
+306,LIMBIC_CINGULATE_GM
+307,LIMBIC_MEDIALTEMPORAL_GM
+308,OCCIPITAL_INFERIOR_GM
+309,OCCIPITAL_LATERAL_GM
+310,OCCIPITAL_MEDIAL_GM
+311,PARIETAL_LATERAL_GM
+312,PARIETAL_MEDIAL_GM
+313,TEMPORAL_INFERIOR_GM
+314,TEMPORAL_LATERAL_GM
+315,TEMPORAL_SUPRATEMPORAL_GM
+316,FRONTAL_INFERIOR_GM_L
+317,FRONTAL_INSULAR_GM_L
+318,FRONTAL_LATERAL_GM_L
+319,FRONTAL_MEDIAL_GM_L
+320,FRONTAL_OPERCULAR_GM_L
+321,LIMBIC_CINGULATE_GM_L
+322,LIMBIC_MEDIALTEMPORAL_GM_L
+323,OCCIPITAL_INFERIOR_GM_L
+324,OCCIPITAL_LATERAL_GM_L
+325,OCCIPITAL_MEDIAL_GM_L
+326,PARIETAL_LATERAL_GM_L
+327,PARIETAL_MEDIAL_GM_L
+328,TEMPORAL_INFERIOR_GM_L
+329,TEMPORAL_LATERAL_GM_L
+330,TEMPORAL_SUPRATEMPORAL_GM_L
+331,FRONTAL_INFERIOR_GM_R
+332,FRONTAL_INSULAR_GM_R
+333,FRONTAL_LATERAL_GM_R
+334,FRONTAL_MEDIAL_GM_R
+335,FRONTAL_OPERCULAR_GM_R
+336,LIMBIC_CINGULATE_GM_R
+337,LIMBIC_MEDIALTEMPORAL_GM_R
+338,OCCIPITAL_INFERIOR_GM_R
+339,OCCIPITAL_LATERAL_GM_R
+340,OCCIPITAL_MEDIAL_GM_R
+341,PARIETAL_LATERAL_GM_R
+342,PARIETAL_MEDIAL_GM_R
+343,TEMPORAL_INFERIOR_GM_R
+344,TEMPORAL_LATERAL_GM_R
+345,TEMPORAL_SUPRATEMPORAL_GM_R
+1,Subarachnoid CSF
+4,3rd Ventricle
+11,4th Ventricle
+23,Right Accumbens Area
+30,Left Accumbens Area
+31,Right Amygdala
+32,Left Amygdala
+35,Brain Stem
+36,Right Caudate
+37,Left Caudate
+38,Right Cerebellum Exterior
+39,Left Cerebellum Exterior
+40,Right Cerebellum White Matter
+41,Left Cerebellum White Matter
+47,Right Hippocampus
+48,Left Hippocampus
+49,Right Inf Lat Vent
+50,Left Inf Lat Vent
+51,Right Lateral Ventricle
+52,Left Lateral Ventricle
+55,Right Pallidum
+56,Left Pallidum
+57,Right Putamen
+58,Left Putamen
+59,Right Thalamus Proper
+60,Left Thalamus Proper
+61,Right Ventral DC
+62,Left Ventral DC
+71,Cerebellar Vermal Lobules I-V
+72,Cerebellar Vermal Lobules VI-VII
+73,Cerebellar Vermal Lobules VIII-X
+75,Left Basal Forebrain
+76,Right Basal Forebrain
+81,frontal lobe WM right
+82,frontal lobe WM left
+83,occipital lobe WM right
+84,occipital lobe WM left
+85,parietal lobe WM right
+86,parietal lobe WM left
+87,temporal lobe WM right
+88,temporal lobe WM left
+89,fornix right
+90,fornix left
+91,anterior limb of internal capsule right
+92,anterior limb of internal capsule left
+93,posterior limb of internal capsule inc. cerebral peduncle right
+94,posterior limb of internal capsule inc. cerebral peduncle left
+95,corpus callosum
+100,Right ACgG  anterior cingulate gyrus
+101,Left ACgG  anterior cingulate gyrus
+102,Right AIns  anterior insula
+103,Left AIns  anterior insula
+104,Right AOrG  anterior orbital gyrus
+105,Left AOrG  anterior orbital gyrus
+106,Right AnG   angular gyrus
+107,Left AnG   angular gyrus
+108,Right Calc  calcarine cortex
+109,Left Calc  calcarine cortex
+112,Right CO    central operculum
+113,Left CO    central operculum
+114,Right Cun   cuneus
+115,Left Cun   cuneus
+116,Right Ent   entorhinal area
+117,Left Ent   entorhinal area
+118,Right FO    frontal operculum
+119,Left FO    frontal operculum
+120,Right FRP   frontal pole
+121,Left FRP   frontal pole
+122,Right FuG   fusiform gyrus
+123,Left FuG   fusiform gyrus
+124,Right GRe   gyrus rectus
+125,Left GRe   gyrus rectus
+128,Right IOG   inferior occipital gyrus
+129,Left IOG   inferior occipital gyrus
+132,Right ITG   inferior temporal gyrus
+133,Left ITG   inferior temporal gyrus
+134,Right LiG   lingual gyrus
+135,Left LiG   lingual gyrus
+136,Right LOrG  lateral orbital gyrus
+137,Left LOrG  lateral orbital gyrus
+138,Right MCgG  middle cingulate gyrus
+139,Left MCgG  middle cingulate gyrus
+140,Right MFC   medial frontal cortex
+141,Left MFC   medial frontal cortex
+142,Right MFG   middle frontal gyrus
+143,Left MFG   middle frontal gyrus
+144,Right MOG   middle occipital gyrus
+145,Left MOG   middle occipital gyrus
+146,Right MOrG  medial orbital gyrus
+147,Left MOrG  medial orbital gyrus
+148,Right MPoG  postcentral gyrus medial segment
+149,Left MPoG  postcentral gyrus medial segment
+150,Right MPrG  precentral gyrus medial segment
+151,Left MPrG  precentral gyrus medial segment
+152,Right MSFG  superior frontal gyrus medial segment
+153,Left MSFG  superior frontal gyrus medial segment
+154,Right MTG   middle temporal gyrus
+155,Left MTG   middle temporal gyrus
+156,Right OCP   occipital pole
+157,Left OCP   occipital pole
+160,Right OFuG  occipital fusiform gyrus
+161,Left OFuG  occipital fusiform gyrus
+162,Right OpIFG opercular part of the inferior frontal gyrus
+163,Left OpIFG opercular part of the inferior frontal gyrus
+164,Right OrIFG orbital part of the inferior frontal gyrus
+165,Left OrIFG orbital part of the inferior frontal gyrus
+166,Right PCgG  posterior cingulate gyrus
+167,Left PCgG  posterior cingulate gyrus
+168,Right PCu   precuneus
+169,Left PCu   precuneus
+170,Right PHG   parahippocampal gyrus
+171,Left PHG   parahippocampal gyrus
+172,Right PIns  posterior insula
+173,Left PIns  posterior insula
+174,Right PO    parietal operculum
+175,Left PO    parietal operculum
+176,Right PoG   postcentral gyrus
+177,Left PoG   postcentral gyrus
+178,Right POrG  posterior orbital gyrus
+179,Left POrG  posterior orbital gyrus
+180,Right PP    planum polare
+181,Left PP    planum polare
+182,Right PrG   precentral gyrus
+183,Left PrG   precentral gyrus
+184,Right PT    planum temporale
+185,Left PT    planum temporale
+186,Right SCA   subcallosal area
+187,Left SCA   subcallosal area
+190,Right SFG   superior frontal gyrus
+191,Left SFG   superior frontal gyrus
+192,Right SMC   supplementary motor cortex
+193,Left SMC   supplementary motor cortex
+194,Right SMG   supramarginal gyrus
+195,Left SMG   supramarginal gyrus
+196,Right SOG   superior occipital gyrus
+197,Left SOG   superior occipital gyrus
+198,Right SPL   superior parietal lobule
+199,Left SPL   superior parietal lobule
+200,Right STG   superior temporal gyrus
+201,Left STG   superior temporal gyrus
+202,Right TMP   temporal pole
+203,Left TMP   temporal pole
+204,Right TrIFG triangular part of the inferior frontal gyrus
+205,Left TrIFG triangular part of the inferior frontal gyrus
+206,Right TTG   transverse temporal gyrus
+207,Left TTG   transverse temporal gyrus
