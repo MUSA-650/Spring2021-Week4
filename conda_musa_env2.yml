@@ -1,0 +1,16 @@
+name: musa2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - ipython
+  - scikit-learn
+  - pip
+  - plotly
+  - seaborn
+
